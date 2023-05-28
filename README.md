@@ -1,7 +1,7 @@
 <!-- ![Banner Web Developer](https://media.licdn.com/dms/image/D4D16AQHNJRaFK_0ZXg/profile-displaybackgroundimage-shrink_350_1400/0/1670508397497?e=1686182400&v=beta&t=tgYJsuCy5R_S96oUm480WDig9LYl76IGI5UKBCDIcm4) -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=segpy&color=0D92F3)
-[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-0B7CCF?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miryambathildecrevillen/)](https://www.linkedin.com/in/gomezv-sebastian/)
+[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-0B7CCF?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miryambathildecrevillen/)](https://www.linkedin.com/in/juan-carlos-aguilar-bosiga-41b067192/)
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
