@@ -5,7 +5,7 @@
 
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> I'm [Juan Carlos A.!](https://www.linkedin.com/in/juan-carlos-aguilar-bosiga-41b067192/)
 
-I’m a **Backend Developer** with over 2 years of experience specializing in **Java** and **Spring Boot**. I build scalable, high-quality solutions, and I’ve led teams and projects to success in multiple domains, including LMS platforms. My main focus is on **hexagonal architecture**, **CQRS**, and **clean code**, while maintaining strong database optimization and DevOps practices.
+I’m a **Backend Developer** with over 3 years of experience specializing in **Java** and **Spring Boot**. I build scalable, high-quality solutions, and I’ve led teams and projects to success in multiple domains, including LMS platforms. My main focus is on **hexagonal architecture**, **CQRS**, and **clean code**, while maintaining strong database optimization and DevOps practices.
 
 
 
